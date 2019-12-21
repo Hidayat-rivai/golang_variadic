@@ -1,1 +1,2 @@
-"# golang_variadic" 
+# Variadic
+function with dynamic parameter
